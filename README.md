@@ -15,8 +15,6 @@ TransitOps is a smart transport management platform built to improve public tran
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
-- (Add Backend later: Node.js/Express, etc.)
 - (Add Database later: PostgreSQL)
 
 ## Team
